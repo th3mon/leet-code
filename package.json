@@ -1,0 +1,24 @@
+{
+  "name": "leet_code",
+  "version": "1.0.0",
+  "description": "A collection of TypeScript algorithm exercises and a React list-virtualization example for interview preparation. Includes Codility problems, binary-tree traversal, and tree-to-list transformations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th3mon/leet-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/th3mon/leet-code/issues"
+  },
+  "homepage": "https://github.com/th3mon/leet-code#readme",
+  "dependencies": {
+    "tsx": "^4.23.15"
+  }
+}
